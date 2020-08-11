@@ -27,8 +27,8 @@ policyBuilder.WithCspMode(CspMode.ENFORCING)
 	
 .WithReportingUri("/csp"));
 ```
-You can find the sample app under ./test/testassets/CspApplication/ directory.
+You can find the sample app under `./test/testassets/CspApplication/` directory.
 
 ## Authors
-Authored-by: Aaron Shim - aaronshim@google.com
-Co-authored-by: Santiago Diaz - salchoman@gmail.com
+* Co-authored-by: Aaron Shim - aaronshim@google.com
+* Co-authored-by: Santiago Diaz - salchoman@gmail.com
